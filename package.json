@@ -122,7 +122,7 @@
     "ts-jest": "^20.0.7",
     "tslint": "^5.5.0",
     "typescript": "~2.4.1",
-    "uglify-js": "^3.0.16",
+    "uglify-js": "3.0.25",
     "webpack": "^3.0.0",
     "webpack-bundle-analyzer": "^2.4.0"
   },
